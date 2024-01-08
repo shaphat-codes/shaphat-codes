@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shaphat-codes
+- 👋 Hi, I’m Shaphat
 - 💞️ I’m looking to collaborate on Backend development projects involving Python, Golang and Java
 - 📫 How to reach me,  whatsapp: 0551911595, twitter: @shaphat_
 
