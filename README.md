@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaphat
-- 💞️ I’m looking to collaborate on Backend development projects involving Python, Golang and Java
+- 💞️ I’m looking to collaborate on Backend development projects involving Python and Golang
 - 📫 How to reach me,  whatsapp: 0551911595, twitter: @shaphat_
 
 <!---
