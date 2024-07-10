@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shaphat
-- 💞️ I’m looking to collaborate on Backend development projects involving Python and Golang
-- 📫 How to reach me,  whatsapp: 0551911595, twitter: @shaphat_
+- Feel free to look around
 
 <!---
 shaphat-codes/shaphat-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
